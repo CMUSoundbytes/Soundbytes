@@ -343,10 +343,10 @@ members_list:
     name: 'Alexander Xu'
     section: 'Bass'
     pic: "/img/members/basses/alex/SoundBytes_0956.jpg"
-colin:
-  name: 'Colin Walters'
-  section: 'Vocal Percussion'
-  pic: "/img/members/basses/colin/colin.jpg"
+  colin:
+    name: 'Colin Walters'
+    section: 'Vocal Percussion'
+    pic: "/img/members/basses/colin/colin.jpg"
   # jack:
   #   name: 'Jack Urbanek'
   #   section: 'Bass'
