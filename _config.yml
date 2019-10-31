@@ -218,7 +218,8 @@ members_list:
   zoe:
     name: 'Zoe Lehn'
     section: 'Soprano'
-    pic: "/img/members/sopranos/zoe/zoe_profile.jpg"
+    pic: "/img/members/sopranos/sophia/SoundBytes_0509.jpg"
+#     pic: "/img/members/sopranos/zoe/zoe_profile.jpg"
   divya:
     name: 'Divya Viswanathan'
     section: 'Soprano'
