@@ -221,8 +221,8 @@ members_list:
     pic: "/img/members/sopranos/zoe/zoe_profile.jpg"
   divya:
     name: 'Divya Viswanathan'
-    section:'Soprano'
-    pic:
+    section: 'Soprano'
+    pic: "/img/members/sopranos/divya/divya.jpg"
   # lexi:
   #   name: 'Alexis De La Rosa'
   #   section: 'Soprano'
