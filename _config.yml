@@ -256,7 +256,7 @@ members_list:
   nish:
     name: 'Nish Nilakantan'
     section: 'Alto'
-    pic: "/img/members/altos/zoe/nish_.jpg"
+    pic: "/img/members/altos/nish/nish_.jpg"
   anne:
     name: 'Anne Silbaugh'
     section: 'Alto'
@@ -288,7 +288,7 @@ members_list:
   shane:
     name: 'Shane Killen'
     section: 'Tenor (President)'
-    pic: "/img/members/tenors/shane/shane.jpg"
+    pic: "/img/members/tenors/shane/shane.JPG"
   # matt:
   #   name: 'Matthew Lintern'
   #   section: 'Tenor (Music Director)'
@@ -330,7 +330,7 @@ members_list:
   jamesb:
     name: 'James Barkley'
     section: 'Bass(Vice President)'
-    pic: "/img/members/basses/james/jamesB.JPG"
+    pic: "/img/members/basses/james/jamesB.jpg"
   andy:
     name: 'Andrew Liu'
     section: 'Bass'
@@ -342,7 +342,7 @@ members_list:
   alex:
     name: 'Alexander Xu'
     section: 'Bass'
-    pic: "/img/members/basses/alex/SoundBytes_0956.JPG"
+    pic: "/img/members/basses/alex/SoundBytes_0956.jpg"
 colin:
   name: 'Colin Walters'
   section: 'Vocal Percussion'
