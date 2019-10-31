@@ -202,18 +202,15 @@ members_list:
   #   name: 'Catherine Mondoa'
   #   section: 'Soprano'
   #   pic: "/img/members/sopranos/catherine/catherine4-MAIN-test.jpg"
-  grace:
-    name: 'Grace Alexander'
-    section: 'Soprano'
-    pic: "/img/members/sopranos/grace/SoundBytes_0325.jpg"
+  # grace:
+    # name: 'Grace Alexander'
+    # section: 'Soprano'
+    # pic: "/img/members/sopranos/grace/SoundBytes_0325.jpg"
   sophia:
       name: 'Sophia Burke'
       section: 'Soprano(Treasurer)'
-      pic: "/img/members/sopranos/sophia/SoundBytes_0509.jpg"
-  jessie:
-    name: 'Jessie Cheng'
-    section: 'Soprano'
-    pic: "/img/members/sopranos/jessie/SoundBytes_0519.jpg"
+      pic: "/img/members/sopranos/sophia/SoundBytes_0509.JPG"
+
   # shreya:
   #   name: 'Shreya Desikan'
   #   section: 'Soprano'
@@ -221,7 +218,11 @@ members_list:
   zoe:
     name: 'Zoe Lehn'
     section: 'Soprano'
-    pic: "/img/members/sopranos/zoe/zoe2-MAIN-test.jpg"
+    pic: "/img/members/sopranos/zoe/zoe_profile.jpg"
+  divya:
+    name: 'Divya Viswanathan'
+    section:'Soprano'
+    pic:
   # lexi:
   #   name: 'Alexis De La Rosa'
   #   section: 'Soprano'
@@ -323,7 +324,7 @@ members_list:
   # sean:
   #   name: 'Sean Park'
   #   section: 'Bass / Beatbox'
-  #   pic: "/img/members/basses/sean/sean3-MAIN-test.jpg"
+  #   pic: "/img/members/basses/sean/sean3-MAIN-testt.jpg"
   # nikhil:
   #   name: 'Nikhil Nilakantan'
   #   section: 'Bass / Beatbox'
