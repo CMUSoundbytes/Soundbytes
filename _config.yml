@@ -43,9 +43,12 @@ favicon: "/img/soundbytesfavicon2.png"
 black-favicon: "/img/largelogo.png"
 
 # Header Pics
-audition-background-img: "../img/group/soundbytes034.jpg"
-blog-background-img: "../img/group/soundbytes103.jpg"
-background-img: "../img/group/soundbytes128.jpg"
+# audition-background-img: "../img/group/soundbytes034.jpg"
+# blog-background-img: "../img/group/soundbytes103.jpg"
+# background-img: "../img/group/soundbytes128.jpg"
+audition-background-img: "../img/group/SoundBytes_0256.jpg"
+blog-background-img: "../img/group/SoundBytes_01254.jpg"
+background-img: "../img/group/soundbytes.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -225,7 +228,7 @@ members_list:
     pic: "/img/members/sopranos/divya /divya.jpg"
   vivian:
     name: 'Vivian Yuan'
-    Section: 'Soprano'
+    section: 'Soprano'
     pic: "/img/members/sopranos/vivian/vivian_.jpg"
 
   # lexi:
