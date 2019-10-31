@@ -263,11 +263,11 @@ members_list:
   anne:
     name: 'Anne Silbaugh'
     section: 'Alto'
-    pic: "/img/members/altos/anne/IMG_2842.JPG"
+    pic: "/img/members/altos/anne/anne.jpg"
   kate:
     name: 'Kate Stargiotti'
     section: 'Alto (Music Director)'
-    pic: "/img/members/altos/kate/SoundBytes_0469.jpg"
+    pic: "/img/members/altos/kate/kate.jpg"
 
 
   # christie:
@@ -345,7 +345,7 @@ members_list:
   alex:
     name: 'Alexander Xu'
     section: 'Bass'
-    pic: "/img/members/basses/alex/SoundBytes_0956.jpg"
+    pic: "/img/members/basses/alex/alex.jpg"
   colin:
     name: 'Colin Walters'
     section: 'Vocal Percussion'
