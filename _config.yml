@@ -222,7 +222,8 @@ members_list:
   divya:
     name: 'Divya Viswanathan'
     section: 'Soprano'
-    pic: "/img/members/sopranos/divya/divya.jpg"
+    pic: "/img/members/sopranos/sophia/SoundBytes_0509.jpg"
+#     pic: "/img/members/sopranos/divya/divya.jpg"
   # lexi:
   #   name: 'Alexis De La Rosa'
   #   section: 'Soprano'
